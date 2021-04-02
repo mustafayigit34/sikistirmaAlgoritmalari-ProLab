@@ -1,0 +1,10 @@
+1)Derlenip çalıştırılması yeterlidir.
+Uygulama çalıştırıldığında konsol ekranında sıkıştırma uygulamalarının boyuta etkisi hakkında bilgi 
+vermektedir.
+2)Uygulama kaynak kodları CodeBlocks ve Dev-C++ üzerinde denenmiştir.Dev-C++ üzerinde
+herhangi bir sorun çıkmamasına rağmen CodeBlocks üzerinde hata alındığı durumlar olmuştur.
+Bu sorun uyumluluk problemi giderilmesi ile çözülmektedir.
+3)Deflate algoritmasını kodlayamadığımız için,Huffman Kodlaması ve LZSS algoritması ayrı 
+ayrı kodlanmmıştır ve karşılaştırmaya dahil edilmiştir.
+4)Algoritma performans karşılaştırmaları rapor üzerinde yapılmıştır.
+5)Performans testinde kullanılan metin,orijinal dosyada "source.txt" adıyla sunulmuştur.
